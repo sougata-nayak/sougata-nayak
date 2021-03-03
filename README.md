@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sougata Nayak</h1>
-<h3 align="center">I'm an Mobile developer (native android and cross platform with flutter) and Web developer (MERN stack). I'm also interested in Machine Learning and Artificial Intelligence.</h3>
+<h3 align="center">I'm an Mobile developer and Web developer. I'm also interested in Machine Learning and Artificial Intelligence.</h3>
 
 - 🔭 I’m currently working on **Web Dev**
 
