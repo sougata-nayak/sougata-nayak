@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sougata Nayak</h1>
-<h3 align="center">I'm a Mobile and Full Stack Web developer. I'm also interested in Machine Learning and Artificial Intelligence.</h3>
+<h3 align="center">I'm a mobile app delevoper with experience in cloud computing. I'm also interested in blockchain and exploring other new technlogies.</h3>
 
-- 🔭 I’m currently working on **Web Dev**
+- 🔭 I’m currently working on **App development on flutter**
 
-- 🌱 I’m currently learning **Javascript, React JS**
+- 🌱 I’m currently learning **lockchain and Solidity**
 
-- 👯 I’m looking to collaborate on **Android dev**
+- 👯 I’m looking to collaborate on **Android development**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me **sougatanayak007@gmail.com**
 
