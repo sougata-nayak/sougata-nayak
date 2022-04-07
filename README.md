@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sougata Nayak</h1>
 <h3 align="center">I'm a mobile app delevoper with experience in cloud computing. I'm also interested in blockchain and exploring other new technlogies.</h3>
 
-- 🔭 I’m currently working on **App development on flutter**
+- 🔭 I’m currently working on **Flutter** and building cross-platform mobile applications
 
-- 🌱 I’m currently learning **lockchain and Solidity**
+- 🌱 I’m currently learning **Blockchain and Solidity**
 
 - 👯 I’m looking to collaborate on **Android development**
 
