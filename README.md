@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sougatanayak007@gmail.com**
 
-- 📄 Take a ook at my resume [https://drive.google.com/file/d/1ksGKtZEpoDeCbxUG2eocQe09EBSZJqLr/view?usp=sharing](here)
+- 📄 Take a look at my **Resume** [here](https://drive.google.com/file/d/1ksGKtZEpoDeCbxUG2eocQe09EBSZJqLr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
