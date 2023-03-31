@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sougata Nayak</h1>
-<h3 align="center">I'm a mobile app delevoper with experience in cloud computing. I'm also interested in blockchain and exploring other new technlogies.</h3>
+<h1 align="center">Hey, I'm Sougata Nayak</h1>
+<h3 align="center">I'm a Masters in Computer Science student at Arizona State University</h3>
 
 - 🔭 I’m currently working on **Flutter** and building cross-platform mobile applications
 
