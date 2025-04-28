@@ -5,11 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Crafting+Innovative+Mobile+Apps;Building+Scalable+Cloud+Solutions;Exploring+AI+%26+Blockchain;Code.+Learn.+Innovate." alt="Typing SVG" />
 </p>
 
----
-
 ## 🚀 About Me
-- 🎓 Pursuing MS in **Computer Science** at **Arizona State University** (GPA: 3.81/4.0)  
-- 🎓 B.Tech in **Computer Science and Engineering** from **KIIT University** (GPA: 9.11/10)  
+- 🎓 MS in **Computer Science** at **Arizona State University** (GPA: 3.81/4.0) 
 - 💼 Associate Software Engineer experience at **Skywa Solutions** (Mobile App Development with Flutter)  
 - 🤖 Passionate about **Mobile Development**, **Cloud Computing**, **Blockchain**, and **AI-based solutions**  
 - ✍️ Always learning, always building 🚀
