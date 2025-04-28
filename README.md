@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Mobile Developer | Cloud Enthusiast | Futuristic Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Crafting+Innovative+Mobile+Apps;Building+Scalable+Cloud+Solutions;Exploring+AI+%26+Blockchain;Code.+Learn.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=800&height=60&lines=Crafting+Innovative+Mobile+Apps;Building+Scalable+Cloud+Solutions;Exploring+AI+%26+Blockchain;Code.+Learn.+Innovate." alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
