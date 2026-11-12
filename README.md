@@ -1,78 +1,131 @@
-<h1 align="center">Hi 👋, I'm Sougata Nayak</h1>
-<h3 align="center">Software Engineer | Mobile Developer | Cloud Enthusiast | Futuristic Builder</h3>
+<!-- Profile README for github.com/sougata-nayak. Keep assets/ beside this file. -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=800&height=60&lines=Crafting+Innovative+Mobile+Apps;Building+Scalable+Cloud+Solutions;Exploring+AI+%26+Blockchain;Code.+Learn.+Innovate." alt="Typing SVG" />
+  <img src="./assets/header.svg" width="100%" alt="Sougata Nayak — Software engineer. Building useful software. Exploring intelligence." />
 </p>
 
-## 🚀 About Me
-- 🎓 MS in **Computer Science** at **Arizona State University** (GPA: 3.81/4.0) 
-- 💼 Associate Software Engineer experience at **Skywa Solutions** (Mobile App Development with Flutter)  
-- 🤖 Passionate about **Mobile Development**, **Cloud Computing**, **Blockchain**, and **AI-based solutions**  
-- ✍️ Always learning, always building 🚀
-
----
-
-## 🛠️ Skills
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Frameworks/Tools:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-## 🏆 Experience Highlights
-- **Skywa Solutions** — Developed a smart mobile queueing and scheduling app with 5,000+ downloads and 78% retention.
-- **HighRadius Corporation** — Built an AI-based invoice management app integrating ML models and React UI.
-- **The Federation of Entrepreneurship KIIT** — Created a Kotlin + Firebase-based event app used by 50+ teams nationwide.
-- **Innofinity Manufacturers Pvt. Ltd.** — Built a real-time dynamic app interacting with IoT devices for fleet management.
-
----
-
-## 🧠 Projects
-- **BEFI - IBEU App** [Live App 🔗](https://github.com/sougata-nayak/ibeu-asansol)  
-  Comprehensive app for Indian Bankers Union managing circulars and users.
-
-- **KIIT Timetable**  
-  Automated timetable alerts and class management system during COVID-19.
-
-- **Accident Analysis of Arizona**  
-  Data analysis + visualization project highlighting accident patterns using Python.
-
----
-
-## 🎯 Achievements
-- 🏅 **Google Cloud Facilitator Program** graduate  
-- 🏅 **HacktoberFest 2020** Open-Source Contributor  
-- 🏅 Completed **GeeksForGeeks 11-week DSA Workshop**
-
----
-
-## 🌐 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/sougata-nayak" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" /></a>
-  <a href="mailto:sougatanayak007@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="gmail" /></a>
-  <a href="https://github.com/sougata-nayak" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" alt="github" /></a>
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/sougata-nayak/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:sougatanayak007@gmail.com">Email</a>
 </p>
 
+<br />
+
+## A little context
+
+I'm **Sougata**, a software engineer based in **Arizona, USA**. These days, I'm working on **AI projects**, building on a background in mobile development, machine learning, and data visualization.
+
+I like turning complex problems into software that feels clear and useful — whether that's a predictive model, a live dashboard, or an app people use every day.
+
+**Current direction:** AI applications, practical ML, and thoughtful interfaces. I'll be sharing more of that work here as new repositories go public.
+
+<br />
+
+## Selected work
+
+### 01 &nbsp; / &nbsp; Arizona Traffic Accident Severity Prediction
+
+**Machine learning · Public safety · Data analysis**
+
+Predicting injury severity from Arizona fatal-crash records spanning 2012–2016. A full ML workflow covering data cleaning, feature engineering, exploratory analysis, and model comparison.
+
+The project README reports **82.26% test accuracy with XGBoost**, alongside comparisons with Random Forest, SVM, and other classifiers.
+
+`Python` `pandas` `scikit-learn` `XGBoost` `Jupyter`
+
+[Explore the project ↗](https://github.com/sougata-nayak/traffic-accidents-arizona-python)
+
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sougata-nayak&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sougata-nayak&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+### 02 &nbsp; / &nbsp; Live System Monitor
+
+**Desktop software · Real-time data · Interface design**
+
+A live desktop dashboard for CPU, memory, network, and disk activity, with animated charts, per-core inspection, and a top-process view. Developed on macOS, with separate sampling and rendering loops for smooth updates.
+
+`Python` `PySide6` `psutil` `pyqtgraph`
+
+[Explore the project ↗](https://github.com/sougata-nayak/live-system-monitor)
 
 ---
+
+### 03 &nbsp; / &nbsp; BEFI – IBEU
+
+**Mobile development · Information access**
+
+A mobile app that gives Indian Bank employees quick access to events, updates, employee-rights information, and bipartite settlements.
+
+`Flutter` `Dart`
+
+[Explore the project ↗](https://github.com/sougata-nayak/ibeu-asansol)
+
+<br />
+
+**Also exploring:** [BitExTract](https://github.com/sougata-nayak/BitExTract), a project concept for interactive visualization of Bitcoin exchange intelligence. The public repository currently contains an overview.
+
+[Browse all repositories ↗](https://github.com/sougata-nayak?tab=repositories)
+
+<!--
+FUTURE PROJECT SLOT — copy this block above the first selected project when ready.
+Keep only 3–4 featured projects; move older ones into the "Also exploring" line.
+Do not present a planned project as a shipped one.
+
+### 01 &nbsp; / &nbsp; PROJECT NAME
+
+**FOCUS AREA · PROBLEM DOMAIN**
+
+What the project does, who it helps, and one concrete technical detail.
+Add an evaluation result or demo only when available and documented.
+
+`Primary language` `Framework` `AI/ML tool`
+
+[Explore the project ↗](REPOSITORY_URL)
+
+Renumber the remaining projects after adding a new one.
+-->
+
+<br />
+
+## Toolbox
+
+| Area | Technologies |
+| :--- | :--- |
+| **ML & data** | Python · pandas · NumPy · scikit-learn · XGBoost · Jupyter |
+| **Apps & interfaces** | Flutter · Dart · React · TypeScript · JavaScript · PySide6 |
+| **Backend & cloud** | Node.js · AWS · Firebase · Docker · Kubernetes |
+| **Also in my toolkit** | Java · Kotlin · C++ · Git |
+
+<!-- Add AI frameworks here as they become part of your published project work. -->
+
+<br />
+
+## Background
+
+**MS in Computer Science, Arizona State University** · GPA **3.81 / 4.0**
+
+My experience spans Flutter apps at **Skywa Solutions**, an AI-based invoice management app at **HighRadius**, and mobile projects for **The Federation of Entrepreneurship, KIIT** and **Innofinity Manufacturers**.
+
+<details>
+<summary>More about my engineering experience</summary>
+
+- **Skywa Solutions** — Developed a mobile queueing and scheduling app with 5,000+ downloads and 78% retention.
+- **HighRadius Corporation** — Built an invoice management app integrating ML models with a React interface.
+- **The Federation of Entrepreneurship, KIIT** — Created a Kotlin and Firebase event app used by 50+ teams nationwide.
+- **Innofinity Manufacturers Pvt. Ltd.** — Built an app that interacted with IoT devices for fleet management.
+
+Earlier milestones include the **Google Cloud Facilitator Program**, **Hacktoberfest 2020**, and the **GeeksforGeeks 11-week DSA workshop**.
+
+</details>
+
+<br />
+
+---
+
+<p align="center">
+  <b>Have a useful problem in mind? Let's build something.</b><br /><br />
+  <a href="https://www.linkedin.com/in/sougata-nayak/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:sougatanayak007@gmail.com">sougatanayak007@gmail.com</a> &nbsp; · &nbsp;
+  <a href="https://github.com/sougata-nayak">GitHub</a>
+</p>
